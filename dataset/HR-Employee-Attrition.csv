@@ -1,0 +1,474 @@
+Age;BusinessTravel;Department;DistanceFromHome;Gender;JobLevel;JobRole;MaritalStatus;NumCompaniesWorked;Over18;StandardHours;TrainingTimesLastYear;YearsInCurrentRole;YearsSinceLastPromotion;Education;EducationField;ForeignLanguageSkills;ComputerSkills;AdvancedMSExcelSkills;WillingToRelocate;OverTime;TotalWorkingYears;Hired;HearUsFrom
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+30;Travel_Rarely;Research & Development;24;Male;1;Laboratory Technician;Divorced;1;Y;80;2;0;0;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Frequently;Research & Development;23;Male;3;Manufacturing Director;Single;0;Y;80;2;7;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Rarely;Research & Development;27;Male;2;Healthcare Representative;Married;6;Y;80;3;7;7;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;16;Male;1;Laboratory Technician;Married;0;Y;80;5;4;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+29;Travel_Rarely;Research & Development;15;Female;2;Laboratory Technician;Single;0;Y;80;3;5;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+31;Travel_Rarely;Research & Development;26;Male;1;Research Scientist;Divorced;1;Y;80;1;2;4;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+34;Travel_Rarely;Research & Development;19;Male;1;Laboratory Technician;Divorced;0;Y;80;2;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+28;Travel_Rarely;Research & Development;24;Male;1;Laboratory Technician;Single;5;Y;80;4;2;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+29;Travel_Rarely;Research & Development;21;Female;3;Manufacturing Director;Divorced;1;Y;80;1;9;8;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+32;Travel_Rarely;Research & Development;5;Male;1;Research Scientist;Divorced;0;Y;80;5;2;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+22;Non-Travel;Research & Development;16;Male;1;Laboratory Technician;Divorced;1;Y;80;2;0;0;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+53;Travel_Rarely;Sales;2;Female;4;Manager;Married;2;Y;80;3;8;3;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Single;5;Y;80;3;2;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+24;Non-Travel;Research & Development;11;Female;2;Manufacturing Director;Divorced;0;Y;80;5;2;1;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Rarely;Sales;9;Male;1;Sales Representative;Single;7;Y;80;4;3;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+34;Travel_Rarely;Research & Development;7;Female;3;Research Director;Single;0;Y;80;4;6;2;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+21;Travel_Rarely;Research & Development;15;Male;1;Research Scientist;Single;1;Y;80;6;0;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+34;Travel_Rarely;Research & Development;6;Male;1;Research Scientist;Single;2;Y;80;2;2;1;1;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+53;Travel_Rarely;Research & Development;5;Female;5;Manager;Divorced;4;Y;80;3;13;4;3;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+32;Travel_Frequently;Research & Development;16;Female;1;Research Scientist;Single;1;Y;80;5;2;6;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+42;Travel_Rarely;Sales;8;Male;2;Sales Executive;Married;0;Y;80;2;7;4;4;Marketing;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+44;Travel_Rarely;Research & Development;7;Female;3;Healthcare Representative;Married;3;Y;80;4;6;5;4;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+46;Travel_Rarely;Sales;2;Female;5;Manager;Single;3;Y;80;2;2;2;4;Marketing;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;4;Y;80;3;1;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+44;Travel_Rarely;Research & Development;10;Male;2;Healthcare Representative;Married;2;Y;80;5;2;1;4;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Yenibiris.com
+30;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Single;1;Y;80;5;0;1;2;Medical;No;No;No;No;No;4;No;Kariyer.net
+39;Travel_Rarely;Sales;5;Male;2;Sales Representative;Married;3;Y;80;6;0;0;3;Technical Degree;No;No;No;No;No;4;No;Kariyer.net
+24;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Married;2;Y;80;2;0;2;3;Medical;No;No;No;No;No;4;No;Kariyer.net
+43;Travel_Rarely;Research & Development;2;Female;1;Research Scientist;Divorced;1;Y;80;3;3;1;2;Medical;No;No;No;No;No;4;No;Kariyer.net
+50;Travel_Rarely;Sales;3;Male;1;Sales Representative;Married;1;Y;80;2;2;0;2;Marketing;No;No;No;No;No;4;No;Kariyer.net
+35;Travel_Rarely;Sales;2;Female;1;Sales Representative;Married;1;Y;80;3;2;2;3;Marketing;No;No;No;No;No;4;No;Kariyer.net
+36;Travel_Rarely;Research & Development;5;Female;1;Research Scientist;Married;9;Y;80;3;1;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Frequently;Sales;1;Female;2;Sales Executive;Married;2;Y;80;3;3;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;4;Male;1;Laboratory Technician;Divorced;1;Y;80;3;0;0;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;2;Female;1;Laboratory Technician;Divorced;1;Y;80;6;0;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+26;Travel_Rarely;Research & Development;25;Male;1;Laboratory Technician;Single;1;Y;80;2;0;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Frequently;Sales;8;Male;3;Sales Executive;Single;1;Y;80;0;8;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+30;Travel_Frequently;Research & Development;1;Female;2;Laboratory Technician;Single;1;Y;80;2;8;3;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+41;Travel_Rarely;Research & Development;12;Female;5;Research Director;Married;1;Y;80;0;15;15;3;Technical Degree;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+34;Non-Travel;Sales;23;Male;2;Sales Executive;Single;0;Y;80;2;5;8;4;Marketing;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;19;Male;1;Research Scientist;Married;4;Y;80;1;0;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+46;Travel_Frequently;Sales;5;Male;2;Sales Executive;Single;4;Y;80;4;6;0;4;Marketing;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;8;Male;1;Laboratory Technician;Married;1;Y;80;2;0;0;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+48;Travel_Rarely;Research & Development;1;Male;3;Laboratory Technician;Single;9;Y;80;2;0;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+28;Travel_Rarely;Research & Development;5;Male;1;Laboratory Technician;Single;1;Y;80;3;2;2;4;Technical Degree;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+44;Travel_Rarely;Sales;1;Female;2;Sales Executive;Divorced;5;Y;80;2;3;1;5;Marketing;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Non-Travel;Research & Development;11;Male;3;Healthcare Representative;Married;2;Y;80;3;0;2;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+26;Travel_Rarely;Sales;23;Female;2;Sales Executive;Married;7;Y;80;2;2;0;3;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+33;Travel_Frequently;Research & Development;1;Female;3;Research Director;Single;1;Y;80;1;14;8;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+35;Travel_Frequently;Sales;18;Male;3;Sales Executive;Married;1;Y;80;3;8;1;5;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+35;Travel_Rarely;Research & Development;23;Female;1;Laboratory Technician;Married;3;Y;80;3;2;2;4;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+31;Travel_Rarely;Research & Development;7;Male;2;Laboratory Technician;Divorced;3;Y;80;3;7;1;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+37;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Divorced;1;Y;80;2;5;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+32;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;3;8;7;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Frequently;Research & Development;29;Female;2;Laboratory Technician;Single;1;Y;80;2;3;9;5;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+50;Travel_Rarely;Research & Development;7;Female;5;Research Director;Divorced;5;Y;80;2;3;13;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+59;Travel_Rarely;Sales;25;Female;3;Sales Executive;Single;7;Y;80;3;16;7;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Rarely;Research & Development;8;Female;3;Healthcare Representative;Divorced;1;Y;80;2;14;12;3;Technical Degree;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+55;Travel_Rarely;Research & Development;8;Female;4;Manager;Divorced;2;Y;80;2;0;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Frequently;Research & Development;11;Male;2;Manufacturing Director;Single;1;Y;80;3;5;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+45;Travel_Rarely;Research & Development;7;Male;3;Research Scientist;Divorced;2;Y;80;2;0;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Frequently;Research & Development;1;Male;1;Research Scientist;Married;4;Y;80;2;2;1;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Rarely;Research & Development;9;Male;1;Research Scientist;Married;0;Y;80;0;0;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+59;Travel_Frequently;Sales;1;Female;2;Sales Executive;Single;7;Y;80;2;3;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+29;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Married;0;Y;80;3;4;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+31;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;4;1;1;4;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+32;Travel_Rarely;Research & Development;1;Male;2;Research Scientist;Married;1;Y;80;3;4;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+36;Travel_Rarely;Research & Development;6;Female;1;Laboratory Technician;Married;3;Y;80;3;0;0;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+31;Travel_Rarely;Research & Development;8;Female;2;Manufacturing Director;Single;1;Y;80;2;7;1;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Sales;1;Male;2;Sales Executive;Single;0;Y;80;2;13;2;4;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+45;Travel_Rarely;Research & Development;6;Male;3;Research Director;Married;4;Y;80;3;0;0;4;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Travel_Rarely;Research & Development;7;Male;3;Research Director;Single;4;Y;80;3;2;0;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+46;Travel_Rarely;Human Resources;5;Male;2;Human Resources;Divorced;8;Y;80;2;2;0;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+30;Travel_Rarely;Research & Development;1;Male;2;Laboratory Technician;Married;1;Y;80;1;8;3;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+35;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;3;4;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+55;Travel_Rarely;Sales;1;Male;3;Sales Executive;Married;3;Y;80;4;0;1;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+38;Non-Travel;Research & Development;6;Female;2;Research Scientist;Divorced;7;Y;80;3;11;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;2;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+56;Travel_Rarely;Research & Development;7;Male;3;Manufacturing Director;Single;4;Y;80;3;4;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+23;Travel_Rarely;Sales;2;Male;1;Sales Representative;Divorced;3;Y;80;3;0;0;1;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Married;3;Y;80;4;2;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Research & Development;2;Male;2;Healthcare Representative;Married;1;Y;80;3;10;10;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+46;Travel_Rarely;Sales;9;Male;3;Sales Executive;Single;1;Y;80;3;8;4;2;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+40;Travel_Frequently;Research & Development;1;Male;4;Healthcare Representative;Married;1;Y;80;3;3;11;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Rarely;Sales;21;Male;2;Sales Executive;Single;0;Y;80;2;7;1;4;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+30;Travel_Rarely;Sales;4;Female;2;Sales Executive;Divorced;1;Y;80;4;8;2;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+46;Travel_Frequently;Research & Development;1;Male;3;Healthcare Representative;Married;2;Y;80;5;9;9;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+32;Travel_Rarely;Sales;6;Male;2;Sales Executive;Single;1;Y;80;0;8;5;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+54;Travel_Rarely;Research & Development;2;Female;3;Research Director;Married;9;Y;80;5;3;0;4;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+24;Travel_Rarely;Sales;3;Female;2;Sales Executive;Married;0;Y;80;2;2;0;2;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+28;Non-Travel;Sales;4;Male;2;Sales Executive;Married;1;Y;80;3;4;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+58;Travel_Rarely;Sales;10;Male;4;Sales Executive;Single;0;Y;80;1;10;1;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+44;Non-Travel;Research & Development;23;Male;2;Laboratory Technician;Married;4;Y;80;3;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Travel_Rarely;Human Resources;6;Male;1;Human Resources;Divorced;4;Y;80;3;2;0;4;Human Resources;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+32;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;2;0;0;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+20;Travel_Frequently;Research & Development;6;Female;1;Laboratory Technician;Single;1;Y;80;5;0;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;6;Female;2;Research Scientist;Single;1;Y;80;3;13;2;4;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Non-Travel;Research & Development;2;Male;2;Healthcare Representative;Divorced;5;Y;80;2;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+59;Non-Travel;Human Resources;2;Female;5;Manager;Married;9;Y;80;3;2;2;4;Human Resources;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+50;Travel_Frequently;Research & Development;1;Female;5;Research Director;Married;3;Y;80;1;3;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+25;Travel_Rarely;Sales;5;Male;2;Sales Executive;Single;1;Y;80;1;4;0;3;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+25;Travel_Rarely;Research & Development;7;Male;1;Research Scientist;Married;1;Y;80;2;2;2;1;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+22;Travel_Rarely;Research & Development;15;Female;1;Laboratory Technician;Single;1;Y;80;5;0;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Frequently;Research & Development;1;Female;3;Healthcare Representative;Single;3;Y;80;1;12;12;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Frequently;Research & Development;7;Male;2;Laboratory Technician;Single;1;Y;80;3;7;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+54;Non-Travel;Human Resources;26;Female;4;Manager;Single;2;Y;80;3;3;4;3;Human Resources;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+24;Travel_Rarely;Research & Development;18;Male;1;Laboratory Technician;Married;0;Y;80;2;3;1;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;6;Female;2;Research Scientist;Divorced;6;Y;80;3;0;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Travel_Rarely;Sales;3;Male;3;Sales Executive;Single;2;Y;80;3;3;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;5;Female;3;Manager;Single;2;Y;80;6;10;5;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+36;Travel_Frequently;Sales;11;Female;3;Sales Executive;Married;0;Y;80;6;7;2;2;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+36;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Divorced;5;Y;80;2;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+43;Travel_Frequently;Sales;26;Male;4;Manager;Married;1;Y;80;3;12;4;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Frequently;Research & Development;23;Male;1;Research Scientist;Divorced;1;Y;80;2;7;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+33;Non-Travel;Sales;22;Male;2;Sales Executive;Married;0;Y;80;2;7;0;2;Marketing;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+56;Travel_Rarely;Research & Development;14;Female;1;Research Scientist;Married;9;Y;80;2;4;4;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+51;Travel_Rarely;Research & Development;6;Male;5;Research Director;Single;7;Y;80;5;18;15;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+31;Travel_Rarely;Sales;6;Male;2;Sales Executive;Married;4;Y;80;3;7;7;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+26;Travel_Rarely;Research & Development;6;Female;1;Research Scientist;Married;1;Y;80;3;4;4;3;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+58;Travel_Rarely;Research & Development;23;Female;3;Healthcare Representative;Married;1;Y;80;3;10;15;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+19;Travel_Rarely;Sales;22;Male;1;Sales Representative;Single;1;Y;80;2;0;0;1;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+22;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;0;Y;80;2;1;2;1;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+49;Travel_Rarely;Research & Development;20;Female;2;Manufacturing Director;Married;1;Y;80;2;11;5;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+43;Travel_Frequently;Research & Development;28;Female;1;Research Scientist;Single;4;Y;80;2;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+50;Travel_Frequently;Sales;12;Female;3;Sales Executive;Single;4;Y;80;3;2;2;3;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+31;Travel_Rarely;Sales;20;Female;2;Sales Executive;Married;3;Y;80;2;2;2;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+41;Travel_Rarely;Sales;9;Male;3;Sales Executive;Divorced;3;Y;80;2;7;0;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+26;Travel_Rarely;Human Resources;25;Female;1;Human Resources;Married;1;Y;80;3;7;5;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+36;Travel_Rarely;Research & Development;6;Male;2;Manufacturing Director;Divorced;6;Y;80;0;2;0;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Frequently;Research & Development;8;Male;3;Manufacturing Director;Single;2;Y;80;2;2;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+39;Travel_Rarely;Sales;4;Female;2;Sales Executive;Married;4;Y;80;1;11;5;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+25;Travel_Rarely;Sales;28;Male;2;Sales Executive;Married;2;Y;80;3;2;2;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Human Resources;9;Male;2;Human Resources;Married;0;Y;80;2;9;4;3;Human Resources;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+32;Travel_Rarely;Research & Development;9;Female;1;Laboratory Technician;Single;7;Y;80;2;4;0;3;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+45;Travel_Rarely;Research & Development;29;Male;1;Research Scientist;Single;5;Y;80;2;5;0;3;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+38;Travel_Rarely;Research & Development;3;Female;2;Research Scientist;Single;3;Y;80;2;2;2;5;Technical Degree;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Research & Development;18;Female;1;Research Scientist;Single;1;Y;80;4;4;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+32;Travel_Frequently;Sales;9;Male;2;Sales Executive;Divorced;0;Y;80;2;7;0;2;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Research & Development;5;Female;1;Research Scientist;Divorced;5;Y;80;3;2;2;3;Technical Degree;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;3;3;1;1;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+41;Travel_Frequently;Research & Development;10;Male;4;Manager;Divorced;4;Y;80;2;6;7;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+41;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Married;2;Y;80;2;0;1;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+19;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Single;1;Y;80;3;0;0;1;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+40;Travel_Frequently;Research & Development;26;Female;2;Research Scientist;Divorced;1;Y;80;2;7;2;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+35;Travel_Rarely;Sales;1;Male;3;Sales Executive;Married;1;Y;80;3;8;0;5;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+53;Travel_Rarely;Sales;6;Male;2;Sales Representative;Married;2;Y;80;3;7;4;2;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+45;Travel_Rarely;Research & Development;9;Male;2;Laboratory Technician;Divorced;8;Y;80;2;9;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+32;Travel_Frequently;Sales;8;Female;3;Sales Executive;Single;1;Y;80;2;8;3;3;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+29;Non-Travel;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;1;7;0;1;Technical Degree;No;No;No;No;No;4;No;Isbul.net
+51;Travel_Rarely;Research & Development;7;Male;2;Manufacturing Director;Married;2;Y;80;2;0;0;4;Medical;No;No;No;No;No;4;No;Isbul.net
+58;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Married;4;Y;80;3;0;0;3;Medical;No;No;No;No;No;4;No;Isbul.net
+40;Travel_Rarely;Sales;4;Male;3;Sales Executive;Married;7;Y;80;2;11;2;4;Marketing;No;No;No;No;No;4;No;Isbul.net
+34;Travel_Frequently;Sales;2;Female;1;Sales Representative;Married;6;Y;80;3;3;1;4;Marketing;No;No;No;No;No;4;No;Isbul.net
+22;Travel_Rarely;Research & Development;19;Male;1;Research Scientist;Married;1;Y;80;6;2;2;1;Medical;No;No;No;No;No;4;No;Isbul.net
+27;Non-Travel;Research & Development;9;Male;1;Research Scientist;Divorced;6;Y;80;1;2;2;3;Medical;No;No;No;No;No;4;No;Isbul.net
+28;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;2;2;0;3;Medical;No;No;No;No;No;4;No;Isbul.net
+57;Travel_Rarely;Research & Development;24;Male;3;Healthcare Representative;Divorced;3;Y;80;2;3;1;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;4;Yes;Linkedin
+27;Non-Travel;Research & Development;3;Male;1;Research Scientist;Divorced;1;Y;80;2;1;0;3;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Isbul.net
+50;Travel_Rarely;Research & Development;11;Female;5;Manager;Single;3;Y;80;5;4;4;3;Life Sciences;No;No;No;No;No;4;No;Kariyer.net
+41;Travel_Rarely;Research & Development;14;Male;1;Research Scientist;Divorced;4;Y;80;2;8;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;4;Yes;Linkedin
+30;Travel_Rarely;Sales;5;Female;3;Sales Executive;Married;2;Y;80;2;9;7;3;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+38;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;4;Y;80;2;3;0;4;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+32;Travel_Rarely;Research & Development;6;Male;1;Research Scientist;Single;3;Y;80;2;4;1;5;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+27;Travel_Rarely;Research & Development;17;Male;1;Research Scientist;Married;0;Y;80;3;2;1;3;Technical Degree;No;No;No;No;No;30;No;Isbul.net
+19;Travel_Frequently;Sales;1;Female;1;Sales Representative;Single;0;Y;80;5;0;0;1;Technical Degree;No;No;No;No;No;30;No;Isbul.net
+36;Travel_Frequently;Research & Development;3;Male;1;Laboratory Technician;Single;4;Y;80;3;7;7;2;Medical;No;No;No;No;No;30;No;Isbul.net
+30;Non-Travel;Research & Development;9;Male;2;Laboratory Technician;Divorced;1;Y;80;4;9;6;3;Medical;No;No;No;No;No;30;No;Isbul.net
+45;Travel_Rarely;Sales;4;Female;2;Sales Executive;Divorced;4;Y;80;3;4;0;2;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+56;Travel_Rarely;Research & Development;8;Female;1;Research Scientist;Divorced;4;Y;80;3;2;2;3;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+33;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Single;0;Y;80;2;1;0;3;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+19;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;1;Y;80;3;0;1;3;Life Sciences;No;No;No;No;No;30;No;Isbul.net
+46;Travel_Rarely;Sales;1;Female;3;Sales Executive;Divorced;1;Y;80;2;13;15;2;Marketing;No;No;No;No;No;30;No;Isbul.net
+38;Travel_Rarely;Research & Development;9;Female;1;Laboratory Technician;Single;1;Y;80;3;2;2;2;Life Sciences;No;No;No;No;No;4;No;Isbul.net
+31;Travel_Rarely;Research & Development;12;Female;1;Research Scientist;Married;8;Y;80;0;2;0;1;Medical;No;No;No;No;No;4;No;Kariyer.net
+34;Travel_Rarely;Research & Development;27;Female;1;Research Scientist;Single;2;Y;80;3;2;1;2;Medical;No;No;No;No;No;4;No;Linkedin
+41;Travel_Rarely;Sales;20;Female;1;Sales Representative;Single;1;Y;80;5;3;0;2;Marketing;No;No;No;No;No;4;No;Isbul.net
+50;Travel_Rarely;Research & Development;1;Male;1;Laboratory Technician;Married;2;Y;80;2;2;0;3;Medical;No;No;No;No;No;4;No;Kariyer.net
+53;Travel_Rarely;Research & Development;13;Female;2;Manufacturing Director;Divorced;1;Y;80;3;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Linkedin
+33;Travel_Rarely;Research & Development;14;Female;1;Research Scientist;Married;1;Y;80;5;7;1;3;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Isbul.net
+40;Travel_Rarely;Research & Development;4;Female;5;Manager;Married;1;Y;80;2;8;9;1;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Kariyer.net
+55;Travel_Rarely;Research & Development;14;Male;5;Research Director;Single;8;Y;80;3;15;2;4;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Linkedin
+34;Travel_Frequently;Research & Development;2;Male;2;Manufacturing Director;Married;1;Y;80;2;9;1;1;Life Sciences;No;No;No;No;No;4;No;Isbul.net
+51;Travel_Rarely;Research & Development;3;Female;4;Healthcare Representative;Single;3;Y;80;6;7;1;3;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Kariyer.net
+52;Travel_Rarely;Research & Development;1;Male;5;Manager;Married;0;Y;80;5;18;11;4;Life Sciences;No;No;No;No;No;4;No;Linkedin
+27;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Single;1;Y;80;2;7;0;3;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Isbul.net
+35;Travel_Rarely;Research & Development;23;Male;2;Manufacturing Director;Married;3;Y;80;1;0;0;2;Life Sciences;No;No;No;No;No;4;No;Kariyer.net
+43;Non-Travel;Research & Development;7;Male;1;Research Scientist;Divorced;4;Y;80;3;4;2;3;Medical;Yes;Yes;Yes;Yes;Yes;4;Yes;Linkedin
+45;Non-Travel;Research & Development;2;Male;4;Manager;Married;9;Y;80;1;8;11;2;Medical;No;No;No;No;No;4;No;Isbul.net
+37;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;3;7;1;3;Life Sciences;No;No;No;No;No;4;No;Kariyer.net
+35;Travel_Frequently;Research & Development;2;Female;2;Laboratory Technician;Single;5;Y;80;5;2;1;3;Medical;No;No;No;No;No;4;No;Linkedin
+42;Non-Travel;Research & Development;21;Female;2;Manufacturing Director;Divorced;2;Y;80;5;3;0;2;Medical;No;No;No;No;No;4;No;Isbul.net
+38;Travel_Rarely;Research & Development;2;Male;2;Manufacturing Director;Married;9;Y;80;3;0;0;4;Life Sciences;No;No;No;No;No;4;No;Isbul.net
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;No;No;No;No;1;No;Kariyer.net
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;No;No;No;No;1;No;Kariyer.net
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;No;No;No;No;1;No;Kariyer.net
+30;Travel_Rarely;Research & Development;24;Male;1;Laboratory Technician;Divorced;1;Y;80;2;0;0;1;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+38;Travel_Frequently;Research & Development;23;Male;3;Manufacturing Director;Single;0;Y;80;2;7;1;3;Life Sciences;No;No;No;No;No;1;No;Kariyer.net
+36;Travel_Rarely;Research & Development;27;Male;2;Healthcare Representative;Married;6;Y;80;3;7;7;3;Medical;No;No;No;No;No;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;16;Male;1;Laboratory Technician;Married;0;Y;80;5;4;0;3;Medical;No;No;No;No;No;1;No;Kariyer.net
+29;Travel_Rarely;Research & Development;15;Female;2;Laboratory Technician;Single;0;Y;80;3;5;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+31;Travel_Rarely;Research & Development;26;Male;1;Research Scientist;Divorced;1;Y;80;1;2;4;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+34;Travel_Rarely;Research & Development;19;Male;1;Laboratory Technician;Divorced;0;Y;80;2;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+28;Travel_Rarely;Research & Development;24;Male;1;Laboratory Technician;Single;5;Y;80;4;2;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+29;Travel_Rarely;Research & Development;21;Female;3;Manufacturing Director;Divorced;1;Y;80;1;9;8;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+32;Travel_Rarely;Research & Development;5;Male;1;Research Scientist;Divorced;0;Y;80;5;2;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+22;Non-Travel;Research & Development;16;Male;1;Laboratory Technician;Divorced;1;Y;80;2;0;0;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+53;Travel_Rarely;Sales;2;Female;4;Manager;Married;2;Y;80;3;8;3;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+38;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Single;5;Y;80;3;2;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+24;Non-Travel;Research & Development;11;Female;2;Manufacturing Director;Divorced;0;Y;80;5;2;1;2;Other;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+36;Travel_Rarely;Sales;9;Male;1;Sales Representative;Single;7;Y;80;4;3;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+34;Travel_Rarely;Research & Development;7;Female;3;Research Director;Single;0;Y;80;4;6;2;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+21;Travel_Rarely;Research & Development;15;Male;1;Research Scientist;Single;1;Y;80;6;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+34;Travel_Rarely;Research & Development;6;Male;1;Research Scientist;Single;2;Y;80;2;2;1;1;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+53;Travel_Rarely;Research & Development;5;Female;5;Manager;Divorced;4;Y;80;3;13;4;3;Other;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+32;Travel_Frequently;Research & Development;16;Female;1;Research Scientist;Single;1;Y;80;5;2;6;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+42;Travel_Rarely;Sales;8;Male;2;Sales Executive;Married;0;Y;80;2;7;4;4;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+44;Travel_Rarely;Research & Development;7;Female;3;Healthcare Representative;Married;3;Y;80;4;6;5;4;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+46;Travel_Rarely;Sales;2;Female;5;Manager;Single;3;Y;80;2;2;2;4;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+33;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;4;Y;80;3;1;0;3;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+44;Travel_Rarely;Research & Development;10;Male;2;Healthcare Representative;Married;2;Y;80;5;2;1;4;Other;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+30;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Single;1;Y;80;5;0;1;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+39;Travel_Rarely;Sales;5;Male;2;Sales Representative;Married;3;Y;80;6;0;0;3;Technical Degree;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+24;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Married;2;Y;80;2;0;2;3;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+43;Travel_Rarely;Research & Development;2;Female;1;Research Scientist;Divorced;1;Y;80;3;3;1;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+50;Travel_Rarely;Sales;3;Male;1;Sales Representative;Married;1;Y;80;2;2;0;2;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+35;Travel_Rarely;Sales;2;Female;1;Sales Representative;Married;1;Y;80;3;2;2;3;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+36;Travel_Rarely;Research & Development;5;Female;1;Research Scientist;Married;9;Y;80;3;1;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+33;Travel_Frequently;Sales;1;Female;2;Sales Executive;Married;2;Y;80;3;3;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+35;Travel_Rarely;Research & Development;4;Male;1;Laboratory Technician;Divorced;1;Y;80;3;0;0;2;Other;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+27;Travel_Rarely;Research & Development;2;Female;1;Laboratory Technician;Divorced;1;Y;80;6;0;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+26;Travel_Rarely;Research & Development;25;Male;1;Laboratory Technician;Single;1;Y;80;2;0;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+27;Travel_Frequently;Sales;8;Male;3;Sales Executive;Single;1;Y;80;0;8;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+30;Travel_Frequently;Research & Development;1;Female;2;Laboratory Technician;Single;1;Y;80;2;8;3;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+41;Travel_Rarely;Research & Development;12;Female;5;Research Director;Married;1;Y;80;0;15;15;3;Technical Degree;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+34;Non-Travel;Sales;23;Male;2;Sales Executive;Single;0;Y;80;2;5;8;4;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+37;Travel_Rarely;Research & Development;19;Male;1;Research Scientist;Married;4;Y;80;1;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+46;Travel_Frequently;Sales;5;Male;2;Sales Executive;Single;4;Y;80;4;6;0;4;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+35;Travel_Rarely;Research & Development;8;Male;1;Laboratory Technician;Married;1;Y;80;2;0;0;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+48;Travel_Rarely;Research & Development;1;Male;3;Laboratory Technician;Single;9;Y;80;2;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+28;Travel_Rarely;Research & Development;5;Male;1;Laboratory Technician;Single;1;Y;80;3;2;2;4;Technical Degree;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+44;Travel_Rarely;Sales;1;Female;2;Sales Executive;Divorced;5;Y;80;2;3;1;5;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+35;Non-Travel;Research & Development;11;Male;3;Healthcare Representative;Married;2;Y;80;3;0;2;2;Medical;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+26;Travel_Rarely;Sales;23;Female;2;Sales Executive;Married;7;Y;80;2;2;0;3;Marketing;Yes;Yes;Yes;Yes;Yes;2;No;Yenibiris.com
+33;Travel_Frequently;Research & Development;1;Female;3;Research Director;Single;1;Y;80;1;14;8;2;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+35;Travel_Frequently;Sales;18;Male;3;Sales Executive;Married;1;Y;80;3;8;1;5;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+35;Travel_Rarely;Research & Development;23;Female;1;Laboratory Technician;Married;3;Y;80;3;2;2;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+31;Travel_Rarely;Research & Development;7;Male;2;Laboratory Technician;Divorced;3;Y;80;3;7;1;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+37;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Divorced;1;Y;80;2;5;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+32;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;3;8;7;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+38;Travel_Frequently;Research & Development;29;Female;2;Laboratory Technician;Single;1;Y;80;2;3;9;5;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+50;Travel_Rarely;Research & Development;7;Female;5;Research Director;Divorced;5;Y;80;2;3;13;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+59;Travel_Rarely;Sales;25;Female;3;Sales Executive;Single;7;Y;80;3;16;7;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+36;Travel_Rarely;Research & Development;8;Female;3;Healthcare Representative;Divorced;1;Y;80;2;14;12;3;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+55;Travel_Rarely;Research & Development;8;Female;4;Manager;Divorced;2;Y;80;2;0;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+36;Travel_Frequently;Research & Development;11;Male;2;Manufacturing Director;Single;1;Y;80;3;5;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+45;Travel_Rarely;Research & Development;7;Male;3;Research Scientist;Divorced;2;Y;80;2;0;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+35;Travel_Frequently;Research & Development;1;Male;1;Research Scientist;Married;4;Y;80;2;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Friend Advice
+36;Travel_Rarely;Research & Development;9;Male;1;Research Scientist;Married;0;Y;80;0;0;0;3;Medical;No;No;No;No;No;1;No;Kariyer.net
+59;Travel_Frequently;Sales;1;Female;2;Sales Executive;Single;7;Y;80;2;3;1;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+29;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Married;0;Y;80;3;4;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+31;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;4;1;1;4;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+32;Travel_Rarely;Research & Development;1;Male;2;Research Scientist;Married;1;Y;80;3;4;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+36;Travel_Rarely;Research & Development;6;Female;1;Laboratory Technician;Married;3;Y;80;3;0;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+31;Travel_Rarely;Research & Development;8;Female;2;Manufacturing Director;Single;1;Y;80;2;7;1;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+35;Travel_Rarely;Sales;1;Male;2;Sales Executive;Single;0;Y;80;2;13;2;4;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+45;Travel_Rarely;Research & Development;6;Male;3;Research Director;Married;4;Y;80;3;0;0;4;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Travel_Rarely;Research & Development;7;Male;3;Research Director;Single;4;Y;80;3;2;0;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+46;Travel_Rarely;Human Resources;5;Male;2;Human Resources;Divorced;8;Y;80;2;2;0;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+30;Travel_Rarely;Research & Development;1;Male;2;Laboratory Technician;Married;1;Y;80;1;8;3;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+35;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;3;4;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+55;Travel_Rarely;Sales;1;Male;3;Sales Executive;Married;3;Y;80;4;0;1;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+38;Non-Travel;Research & Development;6;Female;2;Research Scientist;Divorced;7;Y;80;3;11;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;2;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+56;Travel_Rarely;Research & Development;7;Male;3;Manufacturing Director;Single;4;Y;80;3;4;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+23;Travel_Rarely;Sales;2;Male;1;Sales Representative;Divorced;3;Y;80;3;0;0;1;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Married;3;Y;80;4;2;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+30;Travel_Rarely;Research & Development;2;Male;2;Healthcare Representative;Married;1;Y;80;3;10;10;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+46;Travel_Rarely;Sales;9;Male;3;Sales Executive;Single;1;Y;80;3;8;4;2;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+50;Travel_Frequently;Research & Development;1;Male;4;Healthcare Representative;Married;1;Y;80;3;3;11;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+53;Travel_Rarely;Sales;21;Male;2;Sales Executive;Single;0;Y;80;2;7;1;4;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+33;Travel_Rarely;Sales;4;Female;2;Sales Executive;Divorced;1;Y;80;4;8;2;2;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+40;Travel_Frequently;Research & Development;1;Male;3;Healthcare Representative;Married;2;Y;80;5;9;9;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+55;Travel_Rarely;Sales;6;Male;2;Sales Executive;Single;1;Y;80;0;8;5;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;2;Female;3;Research Director;Married;9;Y;80;5;3;0;4;Technical Degree;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Rarely;Sales;3;Female;2;Sales Executive;Married;0;Y;80;2;2;0;2;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+50;Non-Travel;Sales;4;Male;2;Sales Executive;Married;1;Y;80;3;4;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+53;Travel_Rarely;Sales;10;Male;4;Sales Executive;Single;0;Y;80;1;10;1;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+33;Non-Travel;Research & Development;23;Male;2;Laboratory Technician;Married;4;Y;80;3;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+40;Travel_Rarely;Human Resources;6;Male;1;Human Resources;Divorced;4;Y;80;3;2;0;4;Human Resources;Yes;Yes;Yes;Yes;Yes;2;Yes;Linkedin
+55;Travel_Rarely;Research & Development;1;Male;1;Research Scientist;Single;1;Y;80;2;0;0;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Frequently;Research & Development;6;Female;1;Laboratory Technician;Single;1;Y;80;5;0;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Rarely;Research & Development;6;Female;2;Research Scientist;Single;1;Y;80;3;13;2;4;Other;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+50;Non-Travel;Research & Development;2;Male;2;Healthcare Representative;Divorced;5;Y;80;2;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+53;Non-Travel;Human Resources;2;Female;5;Manager;Married;9;Y;80;3;2;2;4;Human Resources;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+33;Travel_Frequently;Research & Development;1;Female;5;Research Director;Married;3;Y;80;1;3;0;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+40;Travel_Rarely;Sales;5;Male;2;Sales Executive;Single;1;Y;80;1;4;0;3;Marketing;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+55;Travel_Rarely;Research & Development;7;Male;1;Research Scientist;Married;1;Y;80;2;2;2;1;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;15;Female;1;Laboratory Technician;Single;1;Y;80;5;0;0;3;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+51;Travel_Frequently;Research & Development;1;Female;3;Healthcare Representative;Single;3;Y;80;1;12;12;4;Medical;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Frequently;Research & Development;7;Male;2;Laboratory Technician;Single;1;Y;80;3;7;0;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+54;Non-Travel;Human Resources;26;Female;4;Manager;Single;2;Y;80;3;3;4;3;Human Resources;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+24;Travel_Rarely;Research & Development;18;Male;1;Laboratory Technician;Married;0;Y;80;2;3;1;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;6;Female;2;Research Scientist;Divorced;6;Y;80;3;0;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+37;Travel_Rarely;Sales;3;Male;3;Sales Executive;Single;2;Y;80;3;3;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;1;Yes;Linkedin
+34;Travel_Rarely;Research & Development;5;Female;3;Manager;Single;2;Y;80;6;10;5;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+36;Travel_Frequently;Sales;11;Female;3;Sales Executive;Married;0;Y;80;6;7;2;2;Technical Degree;Yes;No;No;No;Yes;15;No;Isbul.net
+36;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Divorced;5;Y;80;2;0;0;2;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+43;Travel_Frequently;Sales;26;Male;4;Manager;Married;1;Y;80;3;12;4;2;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+30;Travel_Frequently;Research & Development;23;Male;1;Research Scientist;Divorced;1;Y;80;2;7;0;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+33;Non-Travel;Sales;22;Male;2;Sales Executive;Married;0;Y;80;2;7;0;2;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+56;Travel_Rarely;Research & Development;14;Female;1;Research Scientist;Married;9;Y;80;2;4;4;4;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+51;Travel_Rarely;Research & Development;6;Male;5;Research Director;Single;7;Y;80;5;18;15;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+31;Travel_Rarely;Sales;6;Male;2;Sales Executive;Married;4;Y;80;3;7;7;4;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+26;Travel_Rarely;Research & Development;6;Female;1;Research Scientist;Married;1;Y;80;3;4;4;3;Other;Yes;No;No;No;Yes;15;No;Isbul.net
+58;Travel_Rarely;Research & Development;23;Female;3;Healthcare Representative;Married;1;Y;80;3;10;15;4;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+19;Travel_Rarely;Sales;22;Male;1;Sales Representative;Single;1;Y;80;2;0;0;1;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+22;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;0;Y;80;2;1;2;1;Technical Degree;Yes;No;No;No;Yes;15;No;Isbul.net
+49;Travel_Rarely;Research & Development;20;Female;2;Manufacturing Director;Married;1;Y;80;2;11;5;4;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+43;Travel_Frequently;Research & Development;28;Female;1;Research Scientist;Single;4;Y;80;2;2;1;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+50;Travel_Frequently;Sales;12;Female;3;Sales Executive;Single;4;Y;80;3;2;2;3;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+31;Travel_Rarely;Sales;20;Female;2;Sales Executive;Married;3;Y;80;2;2;2;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+41;Travel_Rarely;Sales;9;Male;3;Sales Executive;Divorced;3;Y;80;2;7;0;1;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+26;Travel_Rarely;Human Resources;25;Female;1;Human Resources;Married;1;Y;80;3;7;5;1;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+36;Travel_Rarely;Research & Development;6;Male;2;Manufacturing Director;Divorced;6;Y;80;0;2;0;2;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+51;Travel_Frequently;Research & Development;8;Male;3;Manufacturing Director;Single;2;Y;80;2;2;0;4;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+39;Travel_Rarely;Sales;4;Female;2;Sales Executive;Married;4;Y;80;1;11;5;4;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+25;Travel_Rarely;Sales;28;Male;2;Sales Executive;Married;2;Y;80;3;2;2;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+30;Travel_Rarely;Human Resources;9;Male;2;Human Resources;Married;0;Y;80;2;9;4;3;Human Resources;Yes;No;No;No;Yes;15;No;Isbul.net
+32;Travel_Rarely;Research & Development;9;Female;1;Laboratory Technician;Single;7;Y;80;2;4;0;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+45;Travel_Rarely;Research & Development;29;Male;1;Research Scientist;Single;5;Y;80;2;5;0;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+38;Travel_Rarely;Research & Development;3;Female;2;Research Scientist;Single;3;Y;80;2;2;2;5;Technical Degree;Yes;No;No;No;Yes;15;No;Isbul.net
+30;Travel_Rarely;Research & Development;18;Female;1;Research Scientist;Single;1;Y;80;4;4;0;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+32;Travel_Frequently;Sales;9;Male;2;Sales Executive;Divorced;0;Y;80;2;7;0;2;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+30;Travel_Rarely;Research & Development;5;Female;1;Research Scientist;Divorced;5;Y;80;3;2;2;3;Technical Degree;Yes;No;No;No;Yes;15;No;Isbul.net
+30;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;3;3;1;1;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+41;Travel_Frequently;Research & Development;10;Male;4;Manager;Divorced;4;Y;80;2;6;7;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+41;Travel_Rarely;Research & Development;9;Male;1;Laboratory Technician;Married;2;Y;80;2;0;1;4;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+19;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Single;1;Y;80;3;0;0;1;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+40;Travel_Frequently;Research & Development;26;Female;2;Research Scientist;Divorced;1;Y;80;2;7;2;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+35;Travel_Rarely;Sales;1;Male;3;Sales Executive;Married;1;Y;80;3;8;0;5;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+53;Travel_Rarely;Sales;6;Male;2;Sales Representative;Married;2;Y;80;3;7;4;2;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+45;Travel_Rarely;Research & Development;9;Male;2;Laboratory Technician;Divorced;8;Y;80;2;9;0;3;Life Sciences;Yes;No;No;No;Yes;15;No;Isbul.net
+32;Travel_Frequently;Sales;8;Female;3;Sales Executive;Single;1;Y;80;2;8;3;3;Marketing;Yes;No;No;No;Yes;15;No;Isbul.net
+29;Non-Travel;Research & Development;1;Male;2;Manufacturing Director;Married;1;Y;80;1;7;0;1;Technical Degree;Yes;No;No;No;Yes;15;No;Isbul.net
+51;Travel_Rarely;Research & Development;7;Male;2;Manufacturing Director;Married;2;Y;80;2;0;0;4;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+58;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Married;4;Y;80;3;0;0;3;Medical;Yes;No;No;No;Yes;15;No;Isbul.net
+40;Travel_Rarely;Sales;4;Male;3;Sales Executive;Married;7;Y;80;2;11;2;4;Marketing;No;No;No;No;No;4;No;Friends Advice
+34;Travel_Frequently;Sales;2;Female;1;Sales Representative;Married;6;Y;80;3;3;1;4;Marketing;No;No;No;No;No;4;No;Friends Advice
+22;Travel_Rarely;Research & Development;19;Male;1;Research Scientist;Married;1;Y;80;6;2;2;1;Medical;No;No;No;No;No;4;No;Friends Advice
+27;Non-Travel;Research & Development;9;Male;1;Research Scientist;Divorced;6;Y;80;1;2;2;3;Medical;No;No;No;No;No;4;No;Friends Advice
+28;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;2;2;0;3;Medical;No;No;No;No;No;4;No;Friends Advice
+57;Travel_Rarely;Research & Development;24;Male;3;Healthcare Representative;Divorced;3;Y;80;2;3;1;2;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+27;Non-Travel;Research & Development;3;Male;1;Research Scientist;Divorced;1;Y;80;2;1;0;3;Medical;No;No;No;No;No;4;No;Friends Advice
+50;Travel_Rarely;Research & Development;11;Female;5;Manager;Single;3;Y;80;5;4;4;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+41;Travel_Rarely;Research & Development;14;Male;1;Research Scientist;Divorced;4;Y;80;2;8;1;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+30;Travel_Rarely;Sales;5;Female;3;Sales Executive;Married;2;Y;80;2;9;7;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+38;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;4;Y;80;2;3;0;4;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+32;Travel_Rarely;Research & Development;6;Male;1;Research Scientist;Single;3;Y;80;2;4;1;5;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+27;Travel_Rarely;Research & Development;17;Male;1;Research Scientist;Married;0;Y;80;3;2;1;3;Technical Degree;No;No;No;No;No;4;No;Friends Advice
+19;Travel_Frequently;Sales;1;Female;1;Sales Representative;Single;0;Y;80;5;0;0;1;Technical Degree;No;No;No;No;No;4;No;Friends Advice
+36;Travel_Frequently;Research & Development;3;Male;1;Laboratory Technician;Single;4;Y;80;3;7;7;2;Medical;No;No;No;No;No;4;No;Friends Advice
+30;Non-Travel;Research & Development;9;Male;2;Laboratory Technician;Divorced;1;Y;80;4;9;6;3;Medical;No;No;No;No;No;4;No;Friends Advice
+45;Travel_Rarely;Sales;4;Female;2;Sales Executive;Divorced;4;Y;80;3;4;0;2;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+56;Travel_Rarely;Research & Development;8;Female;1;Research Scientist;Divorced;4;Y;80;3;2;2;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+33;Travel_Rarely;Research & Development;2;Male;1;Research Scientist;Single;0;Y;80;2;1;0;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+19;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;1;Y;80;3;0;1;3;Life Sciences;No;No;No;No;No;4;No;Friends Advice
+46;Travel_Rarely;Sales;1;Female;3;Sales Executive;Divorced;1;Y;80;2;13;15;2;Marketing;No;No;No;No;No;4;No;Friends Advice
+38;Travel_Rarely;Research & Development;9;Female;1;Laboratory Technician;Single;1;Y;80;3;2;2;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+31;Travel_Rarely;Research & Development;12;Female;1;Research Scientist;Married;8;Y;80;0;2;0;1;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+34;Travel_Rarely;Research & Development;27;Female;1;Research Scientist;Single;2;Y;80;3;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+41;Travel_Rarely;Sales;20;Female;1;Sales Representative;Single;1;Y;80;5;3;0;2;Marketing;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+50;Travel_Rarely;Research & Development;1;Male;1;Laboratory Technician;Married;2;Y;80;2;2;0;3;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+53;Travel_Rarely;Research & Development;13;Female;2;Manufacturing Director;Divorced;1;Y;80;3;2;1;2;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+33;Travel_Rarely;Research & Development;14;Female;1;Research Scientist;Married;1;Y;80;5;7;1;3;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+40;Travel_Rarely;Research & Development;4;Female;5;Manager;Married;1;Y;80;2;8;9;1;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+55;Travel_Rarely;Research & Development;14;Male;5;Research Director;Single;8;Y;80;3;15;2;4;Medical;Yes;Yes;Yes;Yes;Yes;2;Yes;Kariyer.net
+34;Travel_Frequently;Research & Development;2;Male;2;Manufacturing Director;Married;1;Y;80;2;9;1;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+51;Travel_Rarely;Research & Development;3;Female;4;Healthcare Representative;Single;3;Y;80;6;7;1;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+52;Travel_Rarely;Research & Development;1;Male;5;Manager;Married;0;Y;80;5;18;11;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+27;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Single;1;Y;80;2;7;0;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+35;Travel_Rarely;Research & Development;23;Male;2;Manufacturing Director;Married;3;Y;80;1;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+43;Non-Travel;Research & Development;7;Male;1;Research Scientist;Divorced;4;Y;80;3;4;2;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+45;Non-Travel;Research & Development;2;Male;4;Manager;Married;9;Y;80;1;8;11;2;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+37;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;3;7;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+35;Travel_Frequently;Research & Development;2;Female;2;Laboratory Technician;Single;5;Y;80;5;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+42;Non-Travel;Research & Development;21;Female;2;Manufacturing Director;Divorced;2;Y;80;5;3;0;2;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+38;Travel_Rarely;Research & Development;2;Male;2;Manufacturing Director;Married;9;Y;80;3;0;0;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+55;Travel_Rarely;Research & Development;14;Male;5;Research Director;Single;8;Y;80;3;15;2;4;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+34;Travel_Frequently;Research & Development;2;Male;2;Manufacturing Director;Married;1;Y;80;2;9;1;1;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+51;Travel_Rarely;Research & Development;3;Female;4;Healthcare Representative;Single;3;Y;80;6;7;1;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+52;Travel_Rarely;Research & Development;1;Male;5;Manager;Married;0;Y;80;5;18;11;4;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+27;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Single;1;Y;80;2;7;0;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+35;Travel_Rarely;Research & Development;23;Male;2;Manufacturing Director;Married;3;Y;80;1;0;0;2;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+43;Non-Travel;Research & Development;7;Male;1;Research Scientist;Divorced;4;Y;80;3;4;2;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+45;Non-Travel;Research & Development;2;Male;4;Manager;Married;9;Y;80;1;8;11;2;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+37;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;3;7;1;3;Life Sciences;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+35;Travel_Frequently;Research & Development;2;Female;2;Laboratory Technician;Single;5;Y;80;5;2;1;3;Medical;Yes;Yes;Yes;Yes;Yes;10;Yes;Linkedin
+42;Non-Travel;Research & Development;21;Female;2;Manufacturing Director;Divorced;2;Y;80;5;3;0;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Rarely;Research & Development;2;Male;2;Manufacturing Director;Married;9;Y;80;3;0;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+55;Travel_Rarely;Research & Development;14;Male;5;Research Director;Single;8;Y;80;3;15;2;4;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+34;Travel_Frequently;Research & Development;2;Male;2;Manufacturing Director;Married;1;Y;80;2;9;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+51;Travel_Rarely;Research & Development;3;Female;4;Healthcare Representative;Single;3;Y;80;6;7;1;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+52;Travel_Rarely;Research & Development;1;Male;5;Manager;Married;0;Y;80;5;18;11;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Single;1;Y;80;2;7;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;23;Male;2;Manufacturing Director;Married;3;Y;80;1;0;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+43;Non-Travel;Research & Development;7;Male;1;Research Scientist;Divorced;4;Y;80;3;4;2;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+45;Non-Travel;Research & Development;2;Male;4;Manager;Married;9;Y;80;1;8;11;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;3;7;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Frequently;Research & Development;2;Female;2;Laboratory Technician;Single;5;Y;80;5;2;1;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+42;Non-Travel;Research & Development;21;Female;2;Manufacturing Director;Divorced;2;Y;80;5;3;0;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Rarely;Research & Development;2;Male;2;Manufacturing Director;Married;9;Y;80;3;0;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+55;Travel_Rarely;Research & Development;14;Male;5;Research Director;Single;8;Y;80;3;15;2;4;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+34;Travel_Frequently;Research & Development;2;Male;2;Manufacturing Director;Married;1;Y;80;2;9;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+51;Travel_Rarely;Research & Development;3;Female;4;Healthcare Representative;Single;3;Y;80;6;7;1;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+52;Travel_Rarely;Research & Development;1;Male;5;Manager;Married;0;Y;80;5;18;11;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;9;Female;1;Research Scientist;Single;1;Y;80;2;7;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Rarely;Research & Development;23;Male;2;Manufacturing Director;Married;3;Y;80;1;0;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+43;Non-Travel;Research & Development;7;Male;1;Research Scientist;Divorced;4;Y;80;3;4;2;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+45;Non-Travel;Research & Development;2;Male;4;Manager;Married;9;Y;80;1;8;11;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;21;Male;1;Research Scientist;Married;1;Y;80;3;7;1;3;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+35;Travel_Frequently;Research & Development;2;Female;2;Laboratory Technician;Single;5;Y;80;5;2;1;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+42;Non-Travel;Research & Development;21;Female;2;Manufacturing Director;Divorced;2;Y;80;5;3;0;2;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+38;Travel_Rarely;Research & Development;2;Male;2;Manufacturing Director;Married;9;Y;80;3;0;0;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;Yes;Yes;Yes;Yes;1;No;Kariyer.net
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;No;No;No;No;0;No;Other
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;No;No;No;No;0;No;Other
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;No;No;No;No;0;No;Other
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;No;No;No;No;0;No;Other
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;No;No;No;No;0;No;Other
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;No;No;No;No;0;No;Other
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;No;No;No;No;0;No;Other
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;No;No;No;No;0;No;Other
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;No;No;No;No;0;No;Other
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;No;No;No;No;0;No;Other
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;No;No;No;No;0;No;Other
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;No;No;No;No;0;No;Other
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;No;No;No;No;0;No;Other
+41;Travel_Rarely;Sales;1;Female;2;Sales Executive;Single;8;Y;80;0;4;0;2;Life Sciences;No;No;No;No;No;0;No;Other
+49;Travel_Frequently;Research & Development;8;Male;2;Research Scientist;Married;1;Y;80;3;7;1;1;Life Sciences;No;No;No;No;No;0;No;Other
+37;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Single;6;Y;80;3;0;0;2;Other;No;No;No;No;No;0;No;Other
+33;Travel_Frequently;Research & Development;3;Female;1;Research Scientist;Married;1;Y;80;3;7;3;4;Life Sciences;No;No;No;No;No;0;No;Other
+27;Travel_Rarely;Research & Development;2;Male;1;Laboratory Technician;Married;9;Y;80;3;2;2;1;Medical;No;No;No;No;No;0;Yes;Other
+32;Travel_Frequently;Research & Development;2;Male;1;Laboratory Technician;Single;0;Y;80;2;7;3;2;Life Sciences;No;No;No;No;No;0;Yes;Other
+59;Travel_Rarely;Research & Development;3;Female;1;Laboratory Technician;Married;4;Y;80;3;0;0;3;Medical;No;No;No;No;No;0;Yes;Other
